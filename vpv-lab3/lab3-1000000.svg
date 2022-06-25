@@ -1,0 +1,383 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<svg 
+xmlns = "http://www.w3.org/2000/svg"
+width = "592"
+height = "600"
+version = "1.1">
+<text x="187" y="16" font-family = "monospace" font-size="16px" font-weight="bold" fill="brown">Гранулярность 1000000</text>
+<text x="31" y="16" font-family = "monospace" font-size="10px" font-weight="normal" fill="black">Tмкс</text>
+<text x="10" y="585" font-family = "monospace" font-size="10px" font-weight="normal" fill="black">Threads</text>
+<rect x="37" y="24" width="555" height="551" stroke="black" fill="white"/>
+<line x1="38" y1="573" x2="40" y2="573" stroke="silver"/>
+<line x1="38" y1="570" x2="40" y2="570" stroke="silver"/>
+<line x1="38" y1="567" x2="40" y2="567" stroke="silver"/>
+<line x1="38" y1="564" x2="40" y2="564" stroke="silver"/>
+<line x1="38" y1="561" x2="42" y2="561" stroke="silver"/>
+<line x1="38" y1="558" x2="40" y2="558" stroke="silver"/>
+<line x1="38" y1="555" x2="40" y2="555" stroke="silver"/>
+<line x1="38" y1="552" x2="40" y2="552" stroke="silver"/>
+<line x1="38" y1="549" x2="40" y2="549" stroke="silver"/>
+<line x1="38" y1="546" x2="591" y2="546" stroke="silver"/>
+<text x="10" y="550" font-family = "monospace" font-size="10px" font-weight="normal" fill="black">1000</text>
+<line x1="38" y1="544" x2="40" y2="544" stroke="silver"/>
+<line x1="38" y1="541" x2="40" y2="541" stroke="silver"/>
+<line x1="38" y1="538" x2="40" y2="538" stroke="silver"/>
+<line x1="38" y1="535" x2="40" y2="535" stroke="silver"/>
+<line x1="38" y1="532" x2="42" y2="532" stroke="silver"/>
+<line x1="38" y1="529" x2="40" y2="529" stroke="silver"/>
+<line x1="38" y1="526" x2="40" y2="526" stroke="silver"/>
+<line x1="38" y1="523" x2="40" y2="523" stroke="silver"/>
+<line x1="38" y1="520" x2="40" y2="520" stroke="silver"/>
+<line x1="38" y1="517" x2="591" y2="517" stroke="silver"/>
+<text x="10" y="521" font-family = "monospace" font-size="10px" font-weight="normal" fill="black">2000</text>
+<line x1="38" y1="515" x2="40" y2="515" stroke="silver"/>
+<line x1="38" y1="512" x2="40" y2="512" stroke="silver"/>
+<line x1="38" y1="509" x2="40" y2="509" stroke="silver"/>
+<line x1="38" y1="506" x2="40" y2="506" stroke="silver"/>
+<line x1="38" y1="503" x2="42" y2="503" stroke="silver"/>
+<line x1="38" y1="500" x2="40" y2="500" stroke="silver"/>
+<line x1="38" y1="497" x2="40" y2="497" stroke="silver"/>
+<line x1="38" y1="494" x2="40" y2="494" stroke="silver"/>
+<line x1="38" y1="491" x2="40" y2="491" stroke="silver"/>
+<line x1="38" y1="488" x2="591" y2="488" stroke="silver"/>
+<text x="10" y="492" font-family = "monospace" font-size="10px" font-weight="normal" fill="black">3000</text>
+<line x1="38" y1="486" x2="40" y2="486" stroke="silver"/>
+<line x1="38" y1="483" x2="40" y2="483" stroke="silver"/>
+<line x1="38" y1="480" x2="40" y2="480" stroke="silver"/>
+<line x1="38" y1="477" x2="40" y2="477" stroke="silver"/>
+<line x1="38" y1="474" x2="42" y2="474" stroke="silver"/>
+<line x1="38" y1="471" x2="40" y2="471" stroke="silver"/>
+<line x1="38" y1="468" x2="40" y2="468" stroke="silver"/>
+<line x1="38" y1="465" x2="40" y2="465" stroke="silver"/>
+<line x1="38" y1="462" x2="40" y2="462" stroke="silver"/>
+<line x1="38" y1="459" x2="591" y2="459" stroke="silver"/>
+<text x="10" y="463" font-family = "monospace" font-size="10px" font-weight="normal" fill="black">4000</text>
+<line x1="38" y1="457" x2="40" y2="457" stroke="silver"/>
+<line x1="38" y1="454" x2="40" y2="454" stroke="silver"/>
+<line x1="38" y1="451" x2="40" y2="451" stroke="silver"/>
+<line x1="38" y1="448" x2="40" y2="448" stroke="silver"/>
+<line x1="38" y1="445" x2="42" y2="445" stroke="silver"/>
+<line x1="38" y1="442" x2="40" y2="442" stroke="silver"/>
+<line x1="38" y1="439" x2="40" y2="439" stroke="silver"/>
+<line x1="38" y1="436" x2="40" y2="436" stroke="silver"/>
+<line x1="38" y1="433" x2="40" y2="433" stroke="silver"/>
+<line x1="38" y1="430" x2="591" y2="430" stroke="silver"/>
+<text x="10" y="434" font-family = "monospace" font-size="10px" font-weight="normal" fill="black">5000</text>
+<line x1="38" y1="428" x2="40" y2="428" stroke="silver"/>
+<line x1="38" y1="425" x2="40" y2="425" stroke="silver"/>
+<line x1="38" y1="422" x2="40" y2="422" stroke="silver"/>
+<line x1="38" y1="419" x2="40" y2="419" stroke="silver"/>
+<line x1="38" y1="416" x2="42" y2="416" stroke="silver"/>
+<line x1="38" y1="413" x2="40" y2="413" stroke="silver"/>
+<line x1="38" y1="410" x2="40" y2="410" stroke="silver"/>
+<line x1="38" y1="407" x2="40" y2="407" stroke="silver"/>
+<line x1="38" y1="404" x2="40" y2="404" stroke="silver"/>
+<line x1="38" y1="401" x2="591" y2="401" stroke="silver"/>
+<text x="10" y="405" font-family = "monospace" font-size="10px" font-weight="normal" fill="black">6000</text>
+<line x1="38" y1="399" x2="40" y2="399" stroke="silver"/>
+<line x1="38" y1="396" x2="40" y2="396" stroke="silver"/>
+<line x1="38" y1="393" x2="40" y2="393" stroke="silver"/>
+<line x1="38" y1="390" x2="40" y2="390" stroke="silver"/>
+<line x1="38" y1="387" x2="42" y2="387" stroke="silver"/>
+<line x1="38" y1="384" x2="40" y2="384" stroke="silver"/>
+<line x1="38" y1="381" x2="40" y2="381" stroke="silver"/>
+<line x1="38" y1="378" x2="40" y2="378" stroke="silver"/>
+<line x1="38" y1="375" x2="40" y2="375" stroke="silver"/>
+<line x1="38" y1="372" x2="591" y2="372" stroke="silver"/>
+<text x="10" y="376" font-family = "monospace" font-size="10px" font-weight="normal" fill="black">7000</text>
+<line x1="38" y1="370" x2="40" y2="370" stroke="silver"/>
+<line x1="38" y1="367" x2="40" y2="367" stroke="silver"/>
+<line x1="38" y1="364" x2="40" y2="364" stroke="silver"/>
+<line x1="38" y1="361" x2="40" y2="361" stroke="silver"/>
+<line x1="38" y1="358" x2="42" y2="358" stroke="silver"/>
+<line x1="38" y1="355" x2="40" y2="355" stroke="silver"/>
+<line x1="38" y1="352" x2="40" y2="352" stroke="silver"/>
+<line x1="38" y1="349" x2="40" y2="349" stroke="silver"/>
+<line x1="38" y1="346" x2="40" y2="346" stroke="silver"/>
+<line x1="38" y1="343" x2="591" y2="343" stroke="silver"/>
+<text x="10" y="347" font-family = "monospace" font-size="10px" font-weight="normal" fill="black">8000</text>
+<line x1="38" y1="341" x2="40" y2="341" stroke="silver"/>
+<line x1="38" y1="338" x2="40" y2="338" stroke="silver"/>
+<line x1="38" y1="335" x2="40" y2="335" stroke="silver"/>
+<line x1="38" y1="332" x2="40" y2="332" stroke="silver"/>
+<line x1="38" y1="329" x2="42" y2="329" stroke="silver"/>
+<line x1="38" y1="326" x2="40" y2="326" stroke="silver"/>
+<line x1="38" y1="323" x2="40" y2="323" stroke="silver"/>
+<line x1="38" y1="320" x2="40" y2="320" stroke="silver"/>
+<line x1="38" y1="317" x2="40" y2="317" stroke="silver"/>
+<line x1="38" y1="314" x2="591" y2="314" stroke="silver"/>
+<text x="10" y="318" font-family = "monospace" font-size="10px" font-weight="normal" fill="black">9000</text>
+<line x1="38" y1="312" x2="40" y2="312" stroke="silver"/>
+<line x1="38" y1="309" x2="40" y2="309" stroke="silver"/>
+<line x1="38" y1="306" x2="40" y2="306" stroke="silver"/>
+<line x1="38" y1="303" x2="40" y2="303" stroke="silver"/>
+<line x1="38" y1="300" x2="42" y2="300" stroke="silver"/>
+<line x1="38" y1="297" x2="40" y2="297" stroke="silver"/>
+<line x1="38" y1="294" x2="40" y2="294" stroke="silver"/>
+<line x1="38" y1="291" x2="40" y2="291" stroke="silver"/>
+<line x1="38" y1="288" x2="40" y2="288" stroke="silver"/>
+<line x1="38" y1="285" x2="591" y2="285" stroke="silver"/>
+<text x="5" y="289" font-family = "monospace" font-size="10px" font-weight="normal" fill="black">10000</text>
+<line x1="38" y1="283" x2="40" y2="283" stroke="silver"/>
+<line x1="38" y1="280" x2="40" y2="280" stroke="silver"/>
+<line x1="38" y1="277" x2="40" y2="277" stroke="silver"/>
+<line x1="38" y1="274" x2="40" y2="274" stroke="silver"/>
+<line x1="38" y1="271" x2="42" y2="271" stroke="silver"/>
+<line x1="38" y1="268" x2="40" y2="268" stroke="silver"/>
+<line x1="38" y1="265" x2="40" y2="265" stroke="silver"/>
+<line x1="38" y1="262" x2="40" y2="262" stroke="silver"/>
+<line x1="38" y1="259" x2="40" y2="259" stroke="silver"/>
+<line x1="38" y1="256" x2="591" y2="256" stroke="silver"/>
+<text x="5" y="260" font-family = "monospace" font-size="10px" font-weight="normal" fill="black">11000</text>
+<line x1="38" y1="254" x2="40" y2="254" stroke="silver"/>
+<line x1="38" y1="251" x2="40" y2="251" stroke="silver"/>
+<line x1="38" y1="248" x2="40" y2="248" stroke="silver"/>
+<line x1="38" y1="245" x2="40" y2="245" stroke="silver"/>
+<line x1="38" y1="242" x2="42" y2="242" stroke="silver"/>
+<line x1="38" y1="239" x2="40" y2="239" stroke="silver"/>
+<line x1="38" y1="236" x2="40" y2="236" stroke="silver"/>
+<line x1="38" y1="233" x2="40" y2="233" stroke="silver"/>
+<line x1="38" y1="230" x2="40" y2="230" stroke="silver"/>
+<line x1="38" y1="227" x2="591" y2="227" stroke="silver"/>
+<text x="5" y="231" font-family = "monospace" font-size="10px" font-weight="normal" fill="black">12000</text>
+<line x1="38" y1="225" x2="40" y2="225" stroke="silver"/>
+<line x1="38" y1="222" x2="40" y2="222" stroke="silver"/>
+<line x1="38" y1="219" x2="40" y2="219" stroke="silver"/>
+<line x1="38" y1="216" x2="40" y2="216" stroke="silver"/>
+<line x1="38" y1="213" x2="42" y2="213" stroke="silver"/>
+<line x1="38" y1="210" x2="40" y2="210" stroke="silver"/>
+<line x1="38" y1="207" x2="40" y2="207" stroke="silver"/>
+<line x1="38" y1="204" x2="40" y2="204" stroke="silver"/>
+<line x1="38" y1="201" x2="40" y2="201" stroke="silver"/>
+<line x1="38" y1="198" x2="591" y2="198" stroke="silver"/>
+<text x="5" y="202" font-family = "monospace" font-size="10px" font-weight="normal" fill="black">13000</text>
+<line x1="38" y1="196" x2="40" y2="196" stroke="silver"/>
+<line x1="38" y1="193" x2="40" y2="193" stroke="silver"/>
+<line x1="38" y1="190" x2="40" y2="190" stroke="silver"/>
+<line x1="38" y1="187" x2="40" y2="187" stroke="silver"/>
+<line x1="38" y1="184" x2="42" y2="184" stroke="silver"/>
+<line x1="38" y1="181" x2="40" y2="181" stroke="silver"/>
+<line x1="38" y1="178" x2="40" y2="178" stroke="silver"/>
+<line x1="38" y1="175" x2="40" y2="175" stroke="silver"/>
+<line x1="38" y1="172" x2="40" y2="172" stroke="silver"/>
+<line x1="38" y1="169" x2="591" y2="169" stroke="silver"/>
+<text x="5" y="173" font-family = "monospace" font-size="10px" font-weight="normal" fill="black">14000</text>
+<line x1="38" y1="167" x2="40" y2="167" stroke="silver"/>
+<line x1="38" y1="164" x2="40" y2="164" stroke="silver"/>
+<line x1="38" y1="161" x2="40" y2="161" stroke="silver"/>
+<line x1="38" y1="158" x2="40" y2="158" stroke="silver"/>
+<line x1="38" y1="155" x2="42" y2="155" stroke="silver"/>
+<line x1="38" y1="152" x2="40" y2="152" stroke="silver"/>
+<line x1="38" y1="149" x2="40" y2="149" stroke="silver"/>
+<line x1="38" y1="146" x2="40" y2="146" stroke="silver"/>
+<line x1="38" y1="143" x2="40" y2="143" stroke="silver"/>
+<line x1="38" y1="140" x2="591" y2="140" stroke="silver"/>
+<text x="5" y="144" font-family = "monospace" font-size="10px" font-weight="normal" fill="black">15000</text>
+<line x1="38" y1="138" x2="40" y2="138" stroke="silver"/>
+<line x1="38" y1="135" x2="40" y2="135" stroke="silver"/>
+<line x1="38" y1="132" x2="40" y2="132" stroke="silver"/>
+<line x1="38" y1="129" x2="40" y2="129" stroke="silver"/>
+<line x1="38" y1="126" x2="42" y2="126" stroke="silver"/>
+<line x1="38" y1="123" x2="40" y2="123" stroke="silver"/>
+<line x1="38" y1="120" x2="40" y2="120" stroke="silver"/>
+<line x1="38" y1="117" x2="40" y2="117" stroke="silver"/>
+<line x1="38" y1="114" x2="40" y2="114" stroke="silver"/>
+<line x1="38" y1="111" x2="591" y2="111" stroke="silver"/>
+<text x="5" y="115" font-family = "monospace" font-size="10px" font-weight="normal" fill="black">16000</text>
+<line x1="38" y1="109" x2="40" y2="109" stroke="silver"/>
+<line x1="38" y1="106" x2="40" y2="106" stroke="silver"/>
+<line x1="38" y1="103" x2="40" y2="103" stroke="silver"/>
+<line x1="38" y1="100" x2="40" y2="100" stroke="silver"/>
+<line x1="38" y1="97" x2="42" y2="97" stroke="silver"/>
+<line x1="38" y1="94" x2="40" y2="94" stroke="silver"/>
+<line x1="38" y1="91" x2="40" y2="91" stroke="silver"/>
+<line x1="38" y1="88" x2="40" y2="88" stroke="silver"/>
+<line x1="38" y1="85" x2="40" y2="85" stroke="silver"/>
+<line x1="38" y1="82" x2="591" y2="82" stroke="silver"/>
+<text x="5" y="86" font-family = "monospace" font-size="10px" font-weight="normal" fill="black">17000</text>
+<line x1="38" y1="80" x2="40" y2="80" stroke="silver"/>
+<line x1="38" y1="77" x2="40" y2="77" stroke="silver"/>
+<line x1="38" y1="74" x2="40" y2="74" stroke="silver"/>
+<line x1="38" y1="71" x2="40" y2="71" stroke="silver"/>
+<line x1="38" y1="68" x2="42" y2="68" stroke="silver"/>
+<line x1="38" y1="65" x2="40" y2="65" stroke="silver"/>
+<line x1="38" y1="62" x2="40" y2="62" stroke="silver"/>
+<line x1="38" y1="59" x2="40" y2="59" stroke="silver"/>
+<line x1="38" y1="56" x2="40" y2="56" stroke="silver"/>
+<line x1="38" y1="53" x2="591" y2="53" stroke="silver"/>
+<text x="5" y="57" font-family = "monospace" font-size="10px" font-weight="normal" fill="black">18000</text>
+<line x1="38" y1="51" x2="40" y2="51" stroke="silver"/>
+<line x1="38" y1="48" x2="40" y2="48" stroke="silver"/>
+<line x1="38" y1="45" x2="40" y2="45" stroke="silver"/>
+<line x1="38" y1="42" x2="40" y2="42" stroke="silver"/>
+<line x1="38" y1="39" x2="42" y2="39" stroke="silver"/>
+<line x1="38" y1="36" x2="40" y2="36" stroke="silver"/>
+<line x1="38" y1="33" x2="40" y2="33" stroke="silver"/>
+<line x1="38" y1="30" x2="40" y2="30" stroke="silver"/>
+<line x1="38" y1="27" x2="40" y2="27" stroke="silver"/>
+<text x="5" y="28" font-family = "monospace" font-size="10px" font-weight="normal" fill="black">19000</text>
+<rect x="47" y="98" width="5" height="477" fill="cadetblue"/>
+<rect x="47" y="63" width="4" height="35" fill="cadetblue"/>
+<rect x="47" y="26" width="3" height="37" fill="cadetblue"/>
+<rect x="57" y="99" width="5" height="476" fill="brown"/>
+<rect x="57" y="88" width="4" height="11" fill="brown"/>
+<rect x="57" y="78" width="3" height="10" fill="brown"/>
+<rect x="67" y="99" width="5" height="476" fill="darkorchid"/>
+<rect x="67" y="91" width="4" height="8" fill="darkorchid"/>
+<rect x="67" y="85" width="3" height="6" fill="darkorchid"/>
+<rect x="77" y="149" width="5" height="426" fill="red"/>
+<rect x="77" y="137" width="4" height="12" fill="red"/>
+<rect x="77" y="133" width="3" height="4" fill="red"/>
+<text x="60" y="585" font-family = "monospace" font-size="10px" font-weight="normal" fill="black">1</text>
+<rect x="92" y="310" width="5" height="265" fill="cadetblue"/>
+<rect x="92" y="269" width="4" height="41" fill="cadetblue"/>
+<rect x="92" y="235" width="3" height="34" fill="cadetblue"/>
+<rect x="102" y="305" width="5" height="270" fill="brown"/>
+<rect x="102" y="288" width="4" height="17" fill="brown"/>
+<rect x="102" y="280" width="3" height="8" fill="brown"/>
+<rect x="112" y="303" width="5" height="272" fill="darkorchid"/>
+<rect x="112" y="288" width="4" height="15" fill="darkorchid"/>
+<rect x="112" y="279" width="3" height="9" fill="darkorchid"/>
+<rect x="122" y="356" width="5" height="219" fill="red"/>
+<rect x="122" y="353" width="4" height="3" fill="red"/>
+<rect x="122" y="347" width="3" height="6" fill="red"/>
+<text x="105" y="585" font-family = "monospace" font-size="10px" font-weight="normal" fill="black">2</text>
+<rect x="137" y="364" width="5" height="211" fill="cadetblue"/>
+<rect x="137" y="334" width="4" height="30" fill="cadetblue"/>
+<rect x="137" y="312" width="3" height="22" fill="cadetblue"/>
+<rect x="147" y="359" width="5" height="216" fill="brown"/>
+<rect x="147" y="345" width="4" height="14" fill="brown"/>
+<rect x="147" y="329" width="3" height="16" fill="brown"/>
+<rect x="157" y="355" width="5" height="220" fill="darkorchid"/>
+<rect x="157" y="344" width="4" height="11" fill="darkorchid"/>
+<rect x="157" y="337" width="3" height="7" fill="darkorchid"/>
+<rect x="167" y="428" width="5" height="147" fill="red"/>
+<rect x="167" y="425" width="4" height="3" fill="red"/>
+<rect x="167" y="417" width="3" height="8" fill="red"/>
+<text x="150" y="585" font-family = "monospace" font-size="10px" font-weight="normal" fill="black">3</text>
+<rect x="182" y="392" width="5" height="183" fill="cadetblue"/>
+<rect x="182" y="364" width="4" height="28" fill="cadetblue"/>
+<rect x="182" y="323" width="3" height="41" fill="cadetblue"/>
+<rect x="192" y="381" width="5" height="194" fill="brown"/>
+<rect x="192" y="355" width="4" height="26" fill="brown"/>
+<rect x="192" y="333" width="3" height="22" fill="brown"/>
+<rect x="202" y="375" width="5" height="200" fill="darkorchid"/>
+<rect x="202" y="357" width="4" height="18" fill="darkorchid"/>
+<rect x="202" y="343" width="3" height="14" fill="darkorchid"/>
+<rect x="212" y="464" width="5" height="111" fill="red"/>
+<rect x="212" y="454" width="4" height="10" fill="red"/>
+<rect x="212" y="422" width="3" height="32" fill="red"/>
+<text x="195" y="585" font-family = "monospace" font-size="10px" font-weight="normal" fill="black">4</text>
+<rect x="227" y="396" width="5" height="179" fill="cadetblue"/>
+<rect x="227" y="355" width="4" height="41" fill="cadetblue"/>
+<rect x="227" y="334" width="3" height="21" fill="cadetblue"/>
+<rect x="237" y="373" width="5" height="202" fill="brown"/>
+<rect x="237" y="355" width="4" height="18" fill="brown"/>
+<rect x="237" y="334" width="3" height="21" fill="brown"/>
+<rect x="247" y="375" width="5" height="200" fill="darkorchid"/>
+<rect x="247" y="356" width="4" height="19" fill="darkorchid"/>
+<rect x="247" y="333" width="3" height="23" fill="darkorchid"/>
+<rect x="257" y="487" width="5" height="88" fill="red"/>
+<rect x="257" y="462" width="4" height="25" fill="red"/>
+<rect x="257" y="442" width="3" height="20" fill="red"/>
+<text x="240" y="585" font-family = "monospace" font-size="10px" font-weight="normal" fill="black">5</text>
+<rect x="272" y="369" width="5" height="206" fill="cadetblue"/>
+<rect x="272" y="349" width="4" height="20" fill="cadetblue"/>
+<rect x="272" y="330" width="3" height="19" fill="cadetblue"/>
+<rect x="282" y="357" width="5" height="218" fill="brown"/>
+<rect x="282" y="340" width="4" height="17" fill="brown"/>
+<rect x="282" y="328" width="3" height="12" fill="brown"/>
+<rect x="292" y="362" width="5" height="213" fill="darkorchid"/>
+<rect x="292" y="346" width="4" height="16" fill="darkorchid"/>
+<rect x="292" y="336" width="3" height="10" fill="darkorchid"/>
+<rect x="302" y="468" width="5" height="107" fill="red"/>
+<rect x="302" y="464" width="4" height="4" fill="red"/>
+<rect x="302" y="462" width="3" height="2" fill="red"/>
+<text x="285" y="585" font-family = "monospace" font-size="10px" font-weight="normal" fill="black">6</text>
+<rect x="317" y="351" width="5" height="224" fill="cadetblue"/>
+<rect x="317" y="334" width="4" height="17" fill="cadetblue"/>
+<rect x="317" y="321" width="3" height="13" fill="cadetblue"/>
+<rect x="327" y="366" width="5" height="209" fill="brown"/>
+<rect x="327" y="349" width="4" height="17" fill="brown"/>
+<rect x="327" y="326" width="3" height="23" fill="brown"/>
+<rect x="337" y="352" width="5" height="223" fill="darkorchid"/>
+<rect x="337" y="330" width="4" height="22" fill="darkorchid"/>
+<rect x="337" y="312" width="3" height="18" fill="darkorchid"/>
+<rect x="347" y="481" width="5" height="94" fill="red"/>
+<rect x="347" y="479" width="4" height="2" fill="red"/>
+<rect x="347" y="478" width="3" height="1" fill="red"/>
+<text x="330" y="585" font-family = "monospace" font-size="10px" font-weight="normal" fill="black">7</text>
+<rect x="362" y="336" width="5" height="239" fill="cadetblue"/>
+<rect x="362" y="311" width="4" height="25" fill="cadetblue"/>
+<rect x="362" y="294" width="3" height="17" fill="cadetblue"/>
+<rect x="372" y="333" width="5" height="242" fill="brown"/>
+<rect x="372" y="314" width="4" height="19" fill="brown"/>
+<rect x="372" y="299" width="3" height="15" fill="brown"/>
+<rect x="382" y="338" width="5" height="237" fill="darkorchid"/>
+<rect x="382" y="319" width="4" height="19" fill="darkorchid"/>
+<rect x="382" y="309" width="3" height="10" fill="darkorchid"/>
+<rect x="392" y="492" width="5" height="83" fill="red"/>
+<rect x="392" y="492" width="4" height="0" fill="red"/>
+<rect x="392" y="491" width="3" height="1" fill="red"/>
+<text x="375" y="585" font-family = "monospace" font-size="10px" font-weight="normal" fill="black">8</text>
+<rect x="407" y="326" width="5" height="249" fill="cadetblue"/>
+<rect x="407" y="301" width="4" height="25" fill="cadetblue"/>
+<rect x="407" y="287" width="3" height="14" fill="cadetblue"/>
+<rect x="417" y="316" width="5" height="259" fill="brown"/>
+<rect x="417" y="295" width="4" height="21" fill="brown"/>
+<rect x="417" y="280" width="3" height="15" fill="brown"/>
+<rect x="427" y="327" width="5" height="248" fill="darkorchid"/>
+<rect x="427" y="290" width="4" height="37" fill="darkorchid"/>
+<rect x="427" y="261" width="3" height="29" fill="darkorchid"/>
+<rect x="437" y="502" width="5" height="73" fill="red"/>
+<rect x="437" y="500" width="4" height="2" fill="red"/>
+<rect x="437" y="497" width="3" height="3" fill="red"/>
+<text x="420" y="585" font-family = "monospace" font-size="10px" font-weight="normal" fill="black">9</text>
+<rect x="452" y="309" width="5" height="266" fill="cadetblue"/>
+<rect x="452" y="283" width="4" height="26" fill="cadetblue"/>
+<rect x="452" y="261" width="3" height="22" fill="cadetblue"/>
+<rect x="462" y="293" width="5" height="282" fill="brown"/>
+<rect x="462" y="254" width="4" height="39" fill="brown"/>
+<rect x="462" y="231" width="3" height="23" fill="brown"/>
+<rect x="472" y="299" width="5" height="276" fill="darkorchid"/>
+<rect x="472" y="272" width="4" height="27" fill="darkorchid"/>
+<rect x="472" y="253" width="3" height="19" fill="darkorchid"/>
+<rect x="482" y="509" width="5" height="66" fill="red"/>
+<rect x="482" y="507" width="4" height="2" fill="red"/>
+<rect x="482" y="504" width="3" height="3" fill="red"/>
+<text x="462" y="585" font-family = "monospace" font-size="10px" font-weight="normal" fill="black">10</text>
+<rect x="497" y="285" width="5" height="290" fill="cadetblue"/>
+<rect x="497" y="243" width="4" height="42" fill="cadetblue"/>
+<rect x="497" y="222" width="3" height="21" fill="cadetblue"/>
+<rect x="507" y="272" width="5" height="303" fill="brown"/>
+<rect x="507" y="238" width="4" height="34" fill="brown"/>
+<rect x="507" y="215" width="3" height="23" fill="brown"/>
+<rect x="517" y="294" width="5" height="281" fill="darkorchid"/>
+<rect x="517" y="260" width="4" height="34" fill="darkorchid"/>
+<rect x="517" y="235" width="3" height="25" fill="darkorchid"/>
+<rect x="527" y="514" width="5" height="61" fill="red"/>
+<rect x="527" y="511" width="4" height="3" fill="red"/>
+<rect x="527" y="506" width="3" height="5" fill="red"/>
+<text x="507" y="585" font-family = "monospace" font-size="10px" font-weight="normal" fill="black">11</text>
+<rect x="542" y="234" width="5" height="341" fill="cadetblue"/>
+<rect x="542" y="210" width="4" height="24" fill="cadetblue"/>
+<rect x="542" y="192" width="3" height="18" fill="cadetblue"/>
+<rect x="552" y="243" width="5" height="332" fill="brown"/>
+<rect x="552" y="208" width="4" height="35" fill="brown"/>
+<rect x="552" y="192" width="3" height="16" fill="brown"/>
+<rect x="562" y="233" width="5" height="342" fill="darkorchid"/>
+<rect x="562" y="198" width="4" height="35" fill="darkorchid"/>
+<rect x="562" y="178" width="3" height="20" fill="darkorchid"/>
+<rect x="572" y="507" width="5" height="68" fill="red"/>
+<rect x="572" y="464" width="4" height="43" fill="red"/>
+<rect x="572" y="454" width="3" height="10" fill="red"/>
+<text x="552" y="585" font-family = "monospace" font-size="10px" font-weight="normal" fill="black">12</text>
+<rect x="37" y="590" width="10" height="8" fill="cadetblue"/>
+<text x="50" y="598" font-family = "monospace" font-size="10px" font-weight="normal" fill="black">integralThreadLock</text>
+<rect x="159" y="590" width="10" height="8" fill="brown"/>
+<text x="172" y="598" font-family = "monospace" font-size="10px" font-weight="normal" fill="black">integralThreadStNoLock</text>
+<rect x="303" y="590" width="10" height="8" fill="darkorchid"/>
+<text x="316" y="598" font-family = "monospace" font-size="10px" font-weight="normal" fill="black">integralThreadStLock</text>
+<rect x="436" y="590" width="10" height="8" fill="red"/>
+<text x="449" y="598" font-family = "monospace" font-size="10px" font-weight="normal" fill="black">integralOpenMP</text>
+</svg>
