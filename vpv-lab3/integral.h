@@ -28,7 +28,7 @@ using namespace std;
 // Первообразная(x) = F(x) = x - x^3 / (3*3!) + x^5 / (5*5!) -x^7/(7*7!) + ... + (-1)^n * x^(2n+1) / ((2n+1)*(2n+1)!) + ... 
 // Интеграл(0, 1) = F(1) - F(0) = 1 - 1/(3*3!) + 1 / (5*5!) -1/(7*7!) + ... + (-1)^n / ((2n+1)*(2n+1)!)
 double calcEtalon() {
-    return 1.995*log(2);
+    return log(4);
 }
 
 // Вычисление интеграла через библиотеку thread 
@@ -44,12 +44,27 @@ void fuSumLock(int nRect, int thRect, double wRect) {
     // цикл суммирования высот средних прямоугольников
     do {
         x = nRect * wRect + 0.5 * wRect;
-        sum += log((1 + x) / (1 - x));
+        sum += log(double(double(1 + x) / double(1 - x)));
     } while (++nRect < thRect);
     mu.lock();
     globSum = globSum + sum;
     mu.unlock();
 };
+
+void fuSum() {
+    double x, sum = 0.0;
+    int thRect = 100;
+    int nRect = 0;
+    double wRect = 0.01;
+    // цикл суммирования высот средних прямоугольников
+    do {
+        x = nRect * wRect + 0.5 * wRect;
+        sum += log(double(double(1 + x) / double(1 - x)));
+    } while (++nRect < thRect);
+    globSum = sum;
+};
+
+
 
 // Функция суммирования высот прямоугольников,  с шириной wRect 
 // сумма пишется по адресу pResult
@@ -78,7 +93,7 @@ double integralThreadLock(int nThreads, int allRect) {
     // Создаем nThreads потоков
     thread* threads = new thread[nThreads];
     for (int n = 0; n < nThreads; n++)
-        threads[n] = thread(fuSumLock, n * thRect, n < nThreads - 1 ? thRect : restRect, wRect);
+        threads[n] = thread(fuSum);
     for (int n = 0; n < nThreads; n++)
         threads[n].join();
     return globSum * wRect; // возврат площади всех средних прямоугольников

@@ -43,10 +43,10 @@ int main(int argc, char* argv[])
         test.verify();
     cout << endl << "Замеры времени(микросекунды) ..." << endl;
     // Цикл поддержки анализа повторяемости
-    do {
+    /*do {
         for (Tester test : tests)
             test.measure();
     } while (report.show());
-    return 0;
+    return 0;*/
 }
 
